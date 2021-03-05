@@ -10,4 +10,6 @@ Here you can see all my solutions at Frontend Mentor: https://www.frontendmentor
 
 In this challenge, I use HTML CSS and jQuery.
 
+I've just made responsive for some specific devices, I hope you will enjoy it.
+
 Thank you for reading! 😊
